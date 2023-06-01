@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/judge_line.png</file>
+        <file>images/mania-note1.png</file>
+        <file>images/mania-note2.png</file>
+    </qresource>
+</RCC>
